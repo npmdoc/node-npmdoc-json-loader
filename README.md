@@ -1,9 +1,14 @@
-# api documentation for  [json-loader (v0.5.4)](https://github.com/webpack/json-loader#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-json-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json-loader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json-loader)
+# npmdoc-json-loader
+
+#### api documentation for  [json-loader (v0.5.4)](https://github.com/webpack/json-loader#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-json-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json-loader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json-loader)
+
 #### json loader module for webpack
 
-[![NPM](https://nodei.co/npm/json-loader.png?downloads=true)](https://www.npmjs.com/package/json-loader)
+[![NPM](https://nodei.co/npm/json-loader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json-loader)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-json-loader/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-json-loader_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json-loader/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-json-loader/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-json-loader/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-json-loader/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json-loader/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-json-loader/build/screenCapture.npmPackageListing.svg)
 
@@ -35,13 +40,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sokra",
-            "email": "tobias.koppers@googlemail.com"
+            "name": "sokra"
         }
     ],
     "name": "json-loader",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/webpack/json-loader.git"
@@ -50,16 +53,6 @@
     "version": "0.5.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module json-loader](#apidoc.module.json-loader)
-
-
-
-# <a name="apidoc.module.json-loader"></a>[module json-loader](#apidoc.module.json-loader)
 
 
 
