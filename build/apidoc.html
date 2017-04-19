@@ -61,12 +61,39 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.json-loader">module json-loader</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.json-loader.json-loader">
+            function <span class="apidocSignatureSpan"></span>json-loader
+            <span class="apidocSignatureSpan">(source)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.json-loader" id="apidoc.module.json-loader">module json-loader</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.json-loader.json-loader" id="apidoc.element.json-loader.json-loader">
+        function <span class="apidocSignatureSpan"></span>json-loader
+        <span class="apidocSignatureSpan">(source)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">json-loader = function (source) {
+	this.cacheable &#x26;&#x26; this.cacheable();
+	var value = typeof source === &#x22;string&#x22; ? JSON.parse(source) : source;
+	this.value = [value];
+	return &#x22;module.exports = &#x22; + JSON.stringify(value, undefined, &#x22;\t&#x22;) + &#x22;;&#x22;;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
