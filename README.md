@@ -50,7 +50,8 @@
         "url": "git+https://github.com/webpack/json-loader.git"
     },
     "scripts": {},
-    "version": "0.5.4"
+    "version": "0.5.4",
+    "bin": {}
 }
 ```
 
